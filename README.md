@@ -46,4 +46,4 @@
 
 - Portfolio: [GitHub](https://github.com/hafswa-sufi/hafswa-sufi)  
 - GitHub: [Profile](https://github.com/hafswa-sufi)  
-- LinkedIn: [Profile](https://www.linkedin.com/in/hafswa-sufi)
+- LinkedIn: [Profile](https://www.linkedin.com/in/hafswa-sufi-)
